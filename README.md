@@ -1,6 +1,7 @@
 # Rock Paper Scissors Game
 
 This is a simple browser-based implementation of the classic **Rock Paper Scissors** game. Players can choose Rock, Paper, or Scissors, and the computer will make a random move. The game will then display the outcome, and keep track of the player's score.
+AI USED TO MAKE gRAMMER CORRECT
 
 ## Features
 
